@@ -11,7 +11,7 @@ This is a real-time Face Recognition Attendance System built using **OpenCV**, *
 ![Frontend UI Screenshot](https://github.com/Nishu519/Face-recognition-attendence-system/blob/b5555275f62a4d86628f06034c22588cb053cf7a/Screenshot%2520(89).png)
 
 ### 🎥 Real-time Face Recognition
-![Face Recognition Screenshot](https://github.com/Nishu519/face_recognition_attendence_system/blob/ac6185b2cdd754df8ea7762ee01ab7ed05915621/Screenshot%2520(90).png)
+![Face Recognition Screenshot](https://github.com/Nishu519/Face-recognition-attendence-system/blob/729b99922474024b46ebb5c5fef93b6997cd6492/Screenshot%2520(90).png)
 
 ### 📁 Saved Attendance CSV
 ![Attendance CSV Screenshot](https://github.com/Nishu519/Face-recognition-attendence-system/blob/99c97bdbc4037c0686db6e8e7a7093f0ed48361c/Screenshot%2520(88).png)
